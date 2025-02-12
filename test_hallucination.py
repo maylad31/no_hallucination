@@ -3,6 +3,7 @@ import numpy as np
 from pydantic import BaseModel
 import time
 
+
 client = OpenAI(api_key="key")
 
 class CheckEntailment(BaseModel):
