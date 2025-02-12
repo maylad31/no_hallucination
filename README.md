@@ -1,6 +1,6 @@
 # no_hallucination
 
-Detecting Hallucinations in LLMs: Perplexity, Entailment, and Entropy 🌐
+Detecting Hallucinations in LLMs: Perplexity, Entailment, and Entropy 
 
 
 When working with large language models (LLMs), detecting hallucinations—misleading or false information generated—can be a challenge. Instead of relying on just one response or using another LLM as a judge, I've developed a multi-layered approach using perplexity, entailment, and discrete semantic entropy to identify potential hallucinations more accurately.
